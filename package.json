@@ -1,8 +1,9 @@
 {
 	"name": "gatsbyblogpost",
+	"icon": "gbplogo.png",
 	"displayName": "Gatsby Blog Post",
 	"description": "An extension that creates markdown for new blog posts",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"repository": "https://github.com/davidfekke/gatsbyblogpost",
 	"engines": {
 		"vscode": "^1.56.0"
